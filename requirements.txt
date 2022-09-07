@@ -4,3 +4,4 @@ pyarrow
 kaggle
 fastapi
 uvicorn
+pylint
