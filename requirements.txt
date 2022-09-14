@@ -1,7 +1,10 @@
-pandas
-pyspark
-pyarrow
-kaggle
-fastapi
-uvicorn
+pytest
 pylint
+click
+databricks
+databricks-cli
+ipython
+databricks-sql-connector
+databricks-connect==10.4.*
+fastapi
+uvicorn[standard]
