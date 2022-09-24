@@ -1,4 +1,4 @@
-# IDS706-Zilin Project1
+# IDS706-Zilin Project
 
 ### How to run
 
