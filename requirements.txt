@@ -1,3 +1,5 @@
+pytest
+pylint
 pandas
 sodapy
 python-dotenv
