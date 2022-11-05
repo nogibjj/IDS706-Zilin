@@ -8,3 +8,6 @@ databricks-sql-connector
 databricks-connect==10.4.*
 fastapi
 uvicorn[standard]
+pandas
+sodapy
+python-dotenv
