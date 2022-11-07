@@ -19,6 +19,11 @@ SoQL is a query language similar to SQL. They are different that SQL is used to 
 
 For more information about SoQL: https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm
 
+# How to use
+Simply run "pyhton / python3 script.py"
+
+Note: make sure all required packages / libraries are installed first
+
 # Results
-The generated images are stored in the root directory and are stored in png format.
+The generated images are stored in the root directory and are stored in png format
 
